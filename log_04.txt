@@ -1,0 +1,12 @@
+θών. 11, 2023 8:28:48 PM Task_04 main
+WARNING: Start: Task_04
+θών. 11, 2023 8:28:52 PM Task_04 main
+INFO: Input number A -> 77.0
+θών. 11, 2023 8:28:56 PM Task_04 main
+INFO: Input sign -> *
+θών. 11, 2023 8:28:57 PM Task_04 main
+INFO: Input number B -> 44.0
+θών. 11, 2023 8:28:57 PM Task_04 main
+INFO: Get result -> 3388.0
+θών. 11, 2023 8:28:57 PM Task_04 main
+WARNING: End: Task_04
